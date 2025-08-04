@@ -19,3 +19,5 @@ This project extracts the transcript of the first YouTube video matching a given
 
 ## 📦 Dependencies
 pip install -r requirements.txt
+
+[ github_link] https://github.com/manikantmnnit/YouTube_ranscript_Translator_with_Gradio.git
